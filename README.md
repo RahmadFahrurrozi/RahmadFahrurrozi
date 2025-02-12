@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahmad Fahrurrozi</h1>
 <h3 align="center">Front-end Web Developer | Web 3 Enthusiast</h3>
 
-- 🌱 I’m currently learning **Web3 and DApps**
+- 🌱 I’m currently learning **Fullstack, Web3 and DApps**
 
 - 👨‍💻 Check My Portfolio Website [https://rozi-pearl.vercel.app/](https://rozi-pearl.vercel.app/)
 
-- 💬 Ask me about **react, angular, framer motion**
+- 💬 Ask me about **Front-end**
 
 - 📫 How to reach me **zfahrur150105@gmail.com**
 
