@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahmad Fahrurrozi</h1>
 <h3 align="center">Front-end Developer</h3>
 
-- 🌱 I’m currently learning **Fullstack**
 
 - 👨‍💻 All of my projects are available at [https://rozi-pearl.vercel.app/](https://rozi-pearl.vercel.app/)
 
