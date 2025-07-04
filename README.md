@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahmad Fahrurrozi</h1>
 <h3 align="center">Front-end Developer</h3>
 
-
-- 👨‍💻 All of my projects are available at [https://rozi-pearl.vercel.app/](https://rozi-pearl.vercel.app/)
-
 - 💬 Ask me about **Front-end Technologies**
 
 - 📫 How to reach me **zfahrur150105@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://rozi-pearl.vercel.app/](https://rozi-pearl.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
