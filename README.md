@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahmad Fahrurrozi</h1>
+<h1 align="center">Hi 👋, I'm Rozi</h1>
 
 - 💬 Ask me about **Front-end Technologies**
 
