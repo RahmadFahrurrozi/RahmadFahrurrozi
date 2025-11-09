@@ -2,7 +2,7 @@
 
 - 💬 Ask me about **Front-end Technologies**
 
-- 📫 How to reach me **ozifazh@gmail.com**
+- 📫 How to reach me **zfahrur150105@gmail.com**
 
 - 👨‍💻 My portfolio [https://rozi-pearl.vercel.app/](https://rozi-pearl.vercel.app/)
 
